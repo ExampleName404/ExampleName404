@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Welcome](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+coding;%F0%9F%91%BD&center=true&width=380&height=45)
 
 <!--
 **ExampleName404/ExampleName404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
