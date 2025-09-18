@@ -6,5 +6,4 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/@NotUnrealEngineer)
 [![Itch.io](https://img.shields.io/badge/-Itch.io-fa5c5c?style=flat-square&logo=itch-io&logoColor=white)](https://pdagames.itch.io)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ExampleName404&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExampleName404&layout=compact&theme=dracula)
+> "Small steps lead to big actions"
