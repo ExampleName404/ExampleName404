@@ -8,5 +8,3 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ExampleName404&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExampleName404&layout=compact&theme=dracula)
-![GitHub Streak](https://streak-stats.demolab.com?user=ExampleName404&theme=dark)
-![Trophy](https://github-profile-trophy.vercel.app/?username=ExampleName404&theme=algolia)
