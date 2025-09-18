@@ -7,9 +7,3 @@
 [![Itch.io](https://img.shields.io/badge/-Itch.io-fa5c5c?style=flat-square&logo=itch-io&logoColor=white)](https://pdagames.itch.io)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/game_caster)
 > "Small steps lead to big actions"
-
-![Meme](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ZlNzQweGQybDRsa3B4bGZnb2JjMzh2anBvM2E5MGM4eW5ldGphNSZjdD1n/F9hQLAVhWzFAx5W2d5/giphy.gif)
-```
-( •_•)>⌐■-■
-(⌐■_■)
-```
