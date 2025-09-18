@@ -1,4 +1,4 @@
-![Welcome](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+game+dev;%F0%9F%91%BD&center=true&width=380&height=600)
+![Welcome](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+game+dev;%F0%9F%91%BD&center=true&width=380&height=32)
 
 ---
 
